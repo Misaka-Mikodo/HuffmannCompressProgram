@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>func.cpp.png</file>
+    </qresource>
+</RCC>
